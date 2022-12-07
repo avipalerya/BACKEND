@@ -1,0 +1,121 @@
+1.What are the two authentication modes in SQL Server?
+
+SQL Server supports two authentication modes, Windows authentication mode and mixed mode.
+
+Windows authentication is the default, and is often referred to as integrated security 
+because this SQL Server security model is tightly integrated with Windows. 
+Specific Windows user and group accounts are trusted to log in to SQL Server. 
+Windows users who have already been authenticated do not have to present 
+additional credentials.
+
+Mixed mode supports authentication both by Windows and by SQL Server. 
+User name and password pairs are maintained within SQL Server.
+
+-----
+2.Can SQL servers linked to other servers?
+
+Linked Servers are a method by which a SQL Server can talk to another ODBC 
+compliant database, such as another SQL Server instance or an Oracle database, 
+with a direct T-SQL query.
+
+-----
+3.What is RDBMS?
+
+The software used to store, manage, query, and retrieve data stored in a relational 
+database is called a relational database management system (RDBMS). The RDBMS 
+provides an interface between users and applications and the database, 
+as well as administrative functions for managing data storage, access, 
+and performance.
+
+-----
+4.What is a database table?
+
+Tables are database objects that contain all the data in a database. In tables, 
+data is logically organized in a row-and-column format similar to a spreadsheet.
+Each row represents a unique record, and each column represents a field 
+in the record.
+
+-----
+5. How do you create a table in SQL?
+-----
+6.What are relationships in SQL Server database?
+
+Relationships are the established associations between two or more tables. 
+Relationships are based on common fields from more than one table, often involving 
+primary and foreign keys. A primary key is the field (or fields) that is used 
+to uniquely identify each record in a table.
+
+-----
+7.What is the primary key of a database?
+
+A primary key is the column or columns that contain values that uniquely 
+identify each row in a table. A database table must have a primary key 
+ to insert, update, restore, or delete data from a database table.
+
+-----
+8.What is a foreign key of a database?
+
+A foreign key (FK) is a column or combination of columns that is used to establish 
+and enforce a link between the data in two tables to control the data that can 
+be stored in the foreign key table.
+
+-----
+9.What is a query in a database?
+
+A query can either be a request for data results from your database or for 
+action on the data, or for both. A query can give you an answer to a simple question,
+ perform calculations, combine data from different tables, add, change,
+ or delete data from a database.
+
+-----
+10.What are query types in a database?
+Most databases contain tables that store vast amounts of data. 
+A query enables you to filter the data as you single out what you require to analyse.
+
+1. Update query
+2. Select query
+3. Append query
+4. Delete query
+5. Make table query
+6. Parameter query
+7. Crosstab query
+
+-----
+11. What is the database engine in SQL Server?
+
+The Database Engine component of SQL Server is the core service for storing, 
+processing, and securing data. The Database Engine provides controlled access 
+and rapid transaction processing to meet the requirements of the most 
+demanding data consuming applications in your enterprise.
+
+-----
+12.What are Analysis Services in SQL Server?
+
+Analysis Services is an analytical data engine (VertiPaq) used in decision 
+support and business analytics. It provides enterprise-grade semantic data 
+models for business reports and client applications such as Power BI, Excel, 
+Reporting Services reports, and other data visualization tools.
+
+-----
+13.What are the integration services in SQL Server?
+
+SQL Server Integration Services is a platform for building enterprise-level 
+data integration and data transformations solutions. Use Integration Services 
+to solve complex business problems by copying or downloading files, loading 
+data warehouses, cleansing and mining data, and managing SQL Server objects and data.
+
+-----
+14.What are the data quality services in SQL Server?
+
+SQL Server Data Quality Services (DQS) is a knowledge-driven data quality product. 
+DQS enables you to build a knowledge base and use it to perform a variety of
+ critical data quality tasks, including correction, enrichment, standardization, 
+and de-duplication of your data.
+
+-----
+15.How do you define constraints in SQL?
+
+Constraints are the rules that we can apply on the type of data in a table. 
+That is, we can specify the limit on the type of data that can be stored 
+in a particular column in a table using constraints. 
+-----

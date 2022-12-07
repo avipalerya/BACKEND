@@ -1,0 +1,213 @@
+1. How is c different from c sharp?
+-->S.NO	C	                                                              C#
+1.	C language supports procedural programming.	                    Whereas C# supports object oriented programming.
+2.	C language supports pointers.	                                      Whereas in C#, pointers are used only in unsafe mode.
+3.	In C language, garbage collection is not.	                          While in C#, garbage collection is managed by Common Language Runtime (CLR).
+4.	C language can be executed cross-platform.	                    Whereas .NET Framework is required to execute C# language.
+5.	By using C language we can achieve low level of abstraction.	  Whereas by using the C# we can achieve a high degree of abstraction.
+6.	C language is more on functions.	                                While C# is more on design.
+7.	C language gives top notch performance.	                          While C# gives standard performance.
+8.	There are 32 total keywords used in the C language.	              While a total of 86 keywords are used in C#.
+9.	C language is mainly used in commercial industries and engineerinng.Whereas C# is used for software formation and other networking related objective.
+
+2. What is garbage collection in c#?
+-->The garbage collector (GC) manages the allocation and release of memory. The garbage collector serves as an automatic memory manager.
+An allocation is made any time you declare an object with a “new” keyword or a value type is boxed. Allocations are typically very fast.
+When there isn’t enough memory to allocate an object, the GC must collect and dispose of garbage memory to make memory available for new allocations.
+This process is known as garbage collection.
+
+3.What are the types of classess in c# ?
+-->An this article we will understand types of classes in C#. There are four different types of classes available in C#. They are as follows:
+
+1. Static class
+2. Abstract class
+3. Partial class
+4. Sealed class
+
+1.Static class-A class with static keyword that contains only static members is defined as static class. A static class cannot be instantiated.
+2.Abstract class-A class with abstract modifier indicate that class is abstract class. An abstract class cannot be instantiated. The purpose of an abstract class is to provide a common definition of a base class that multiple derived classes can share.
+3.Partial class-The partial keyword indicates that other parts of the class, struct, or interface can be defined in the namespace. All the parts must use the partial keyword. All the parts must be available at compile time to form the final type. All the parts must have the same accessibility, such as public, private, and so on.
+4.Sealed class- is a class  that cannot be inherited and used to restrict the properties.
+
+4.What is managed and unmanaged code?
+-->Managed code is the one that is executed by the CLR of the . NET framework while unmanaged or unsafe code is executed by the operating system. 
+
+5.Diff btw ref and out?
+-->	  Key	                 ref keyword	                                                                                      out keyword
+1	Purpose	    ref keyword is used when a called method has to update the passed parameter.	                          out keyword is used when a called method has to update multiple parameter passed.
+2	Direction	    ref keyword is used to pass data in bi-directional way.                    	                          out keyword is used to get data in uni-directional way.
+3	Initialization  Before passing a variable as ref, it is required to be initialized otherwise compiler will throw error.	  No need to initialize variable if out keyword is used.
+4	Initialization  In called method, it is not required to initialize the parameter passed as ref.                    	  In called method, it is required to initialize the parameter passed as out.
+
+6.extension methods?
+-->Extension methods enable you to "add" methods to existing types without creating a new derived type, recompiling, or otherwise modifying the original type. Extension methods are static methods, but they're called as if they were instance methods on the extended type.
+
+7.diff btw array and arraylist
+-->1.Array stores data of the same type whereas ArrayList stores data in the form of the object which may be of different types.
+2.Size of an ArrayList grows dynamically while Array size remains static throughout the program.
+3.Insertion and deletion operation in ArrayList is slower than an Array.
+4.Arrays are strongly typed whereas ArrayLists are not strongly typed.
+5.Arrays belong to System.Array namespace whereas ArrayList belongs to System.Collections namespace.
+6.When choosing between Array and ArrayList, decide on the basis of their features that you want to implement.
+
+8.What is boxing and unboxing?
+-->Boxing-A boxing conversion permits any value-type to be implicitly converted to the type object or to any interface-type implemented by the value-type. Boxing a value of a value-type consists of allocating an object instance and copying the value-type value into that instance.
+ UnBoxing-An unboxing conversion permits an explicit conversion from type object to any value-type or from any interface-type to any value-type that implements the interface-type. An unboxing operation consists of first checking that the object instance is a boxed value of the given value-type, and then copying the value out of the instance. Unboxing conversion of an object box to a value-type G consists of executing the expression ((G_Box)box).value.
+
+9.What are properties in c#?
+-->A property is a member that provides a flexible mechanism to read, write, or compute the value of a private field. 
+Properties can be used as if they're public data members, but they're special methods called accessors.
+
+10.diff btw == and equalsto()?
+-->S.No.	== Operator	                                                                                                      Equals() Method
+1.	== is considered an operator in Java.	                                                                              Equals() is considered as a method in Java.
+2.	It is majorly used to compare the reference values and objects.	                                                      It is used to compare the actual content of the object.
+3.	We can use the == operator with objects and primitives.	                                                            We cannot use the equals method with primitives.
+4.	The == operator can’t compare conflicting objects, so at that time the compiler surrenders the compile-time error.	The equals() method can compare conflicting objects utilizing the equals() method and returns “false”.
+5.	== operator cannot be overridden.	                                                                                    Equals() method and can be overridden.
+
+
+
+
+
+
+
+===================================================================================================================================================================================================
+1. How is c different from c sharp?
+=========================================
+	                  C	                                                                   C#
+1.	C language supports procedural programming.	                   Whereas C# supports object oriented programming.
+2.	C language supports pointers.	                                   Whereas in C#, pointers are used only in unsafe mode.
+3.	In C language, garbage collection is not.	                   While in C#, garbage collection is managed by Common Language Runtime (CLR).
+4.	C language can be executed cross-platform.	                   Whereas .NET Framework is required to execute C# language.
+5.	By using C language we can achieve low level of abstraction.	   Whereas by using the C# we can achieve a high degree of abstraction.
+6.	C language is more on functions.                                   While C# is more on design.
+
+
+2. What is garbage collection in c#?
+======================================
+Garbage collection is a term used in computer programming to describe the process of finding and deleting objects,
+which are no longer being referenced by other objects.
+
+garbage collection is the process of removing any objects which are not being used by any other objects.
+
+
+3. What are the types of classess in c# ?
+
+1. Static class
+2. Abstract class
+3. Partial class
+4. Sealed class
+
+Static class
+---------------------
+A class with static keyword that contains only static members is defined as static class. A static class cannot be instantiated.
+
+Characteristics of static class
+-------------------------------------------
+Static class cannot instantiated using a new keyword.
+Static items can only access other static items. For example, a static class can only contain static members, e.g. variable, methods etc.
+
+Abstract class
+----------------------
+A class with abstract modifier indicate that class is abstract class. An abstract class cannot be instantiated. The purpose of an abstract class is to provide a common definition of a base class that multiple derived classes can share.
+
+Characteristic of Abstract class
+------------------------------------------------
+An abstract class cannot be instantiated.
+An abstract class may contain abstract methods and accessors.
+It is not possible to modify an abstract class with the sealed modifier because 
+the two modifiers have opposite meanings. 
+The sealed modifier prevents a class from being inherited and the abstract modifier requires a class to be inherited.
+
+
+Partial class
+-------------------
+The partial keyword indicates that other parts of the class, struct, or interface can be defined in the namespace. 
+All the parts must use the partial keyword. 
+
+Characteristic of Partial class
+--------------------------------------------
+All the partial class definitions must be in the same assembly and namespace.
+All the parts must have the same accessibility like public or private, etc.
+If any part is declared abstract, sealed or base type then the whole class is declared of the same type.
+
+Sealed class
+-------------------
+A class with sealed keyword indicates that class is sealed to prevent inheritance. Sealed class cannot inheritance.
+
+
+4. What is managed and unmanaged code?
+==============================================
+
+MANAGED CODE
+-------------------
+*the code which is developed using the Common Language Runtime (CLR) of the .NET framework is known as Managed Code. 
+*In other words, it is the code that gets executed directly in C#. 
+*The runtime environment for managed code provides a variety of services to the programmer. 
+*The services provided are exception handling, garbage collection, type checking, etc. 
+*These services are provided to the programmer automatically.
+
+UNMANAGED CODE
+==================
+*while unmanaged or unsafe code is executed by the operating system.
+*The Unmanaged Code is also known as Unsafe Code. 
+*Unmanaged code depends on the computer architecture as it aims for the processor architecture. 
+
+5. What is the diff bn ref and out keyword?
+========================================================
+
+
+	          ref keyword	                                                                                          out keyword
+ ref keyword is used when a called method has to update the passed parameter.	                                      out keyword is used when a called method has to update multiple parameter passed.
+ ref keyword is used to pass data in bi-directional way.	                                                      out keyword is used to get data in uni-directional way.
+ Before passing a variable as ref, it is required to be initialized otherwise compiler will throw error.	      No need to initialize variable if out keyword is used.
+ In called method, it is not required to initialize the parameter passed as ref.	                              In called method, it is required to initialize the parameter passed as out.
+
+6. What are extension methods in c#?(add new members to the existing methods)
+=================================================================================
+
+C# Extension Method
+
+*A C# extension methods allows developers to extend functionality of an existing type without creating a new derived type, recompiling, or otherwise modifying the original type. 
+*C# extension method is a special kind of static method that is called as if it was an instance methods on the extended type.
+*C# extension method is a static method of a static class, where the "this" modifier is applied to the first parameter. 
+*The type of the first parameter will be the type that is extended.
+
+
+7. What is the difference between array and array list?
+=================================================================
+Difference Between Array and ArrayList
+----------------------------------------------
+Array stores data of the same type,     whereas ArrayList stores data in the form of the object which may be of different types.
+while Array size remains static throughout the program,    Size of an ArrayList grows dynamically
+Insertion and deletion operation in ArrayList is slower than an Array.
+Arrays are strongly typed whereas          ArrayLists are not strongly typed.
+Arrays belong to System.                   Array namespace whereas ArrayList belongs to System.Collections namespace.
+When choosing between Array and ArrayList, decide on the basis of their features that you want to implement.
+
+
+8. What is boxing and unboxing?
+=======================================
+the process of converting a primitive value into an object oriented wrapper class called Boxing, 
+converting a value from an object oriented wrapper class back to the primitive value called unboxing.
+
+
+9. What are properties in c#?
+========================================
+A property is a special type of class member that provides a flexible mechanism to read, write, or compute the value of a private field. 
+Properties can be used as if they're public data members, but they're special methods called accessors.
+A get property accessor is used to return the property value, and a set property accessor is used to assign a new value.
+
+
+10.diff b/w == and equals
+====================================
+The Equality Operator ( ==) is the comparison operator and the Equals() method in C# is used to compare the content of a string.
+
+The Equals() method compares only content
+
+
+
+VAR KEYWORD
+==================
+var is a keyword, it is used to declare an implicit type variable, that specifies the type of a variable based on initial value.

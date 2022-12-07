@@ -1,0 +1,7 @@
+C:\Users\107020\source\repos\loosentightcoupling\bin\Debug\loosentightcoupling.exe.config
+C:\Users\107020\source\repos\loosentightcoupling\bin\Debug\loosentightcoupling.exe
+C:\Users\107020\source\repos\loosentightcoupling\bin\Debug\loosentightcoupling.pdb
+C:\Users\107020\source\repos\loosentightcoupling\obj\Debug\loosentightcoupling.csproj.AssemblyReference.cache
+C:\Users\107020\source\repos\loosentightcoupling\obj\Debug\loosentightcoupling.csproj.CoreCompileInputs.cache
+C:\Users\107020\source\repos\loosentightcoupling\obj\Debug\loosentightcoupling.exe
+C:\Users\107020\source\repos\loosentightcoupling\obj\Debug\loosentightcoupling.pdb

@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <partial name="_Head" />
+	 <script src="~/lib/jquery/dist/jquery.min.js"></script>
+	 <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script> 
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</head>
+<body style="margin-bottom:unset"> 
+
+    <div class="modal fade" data-keyword="static" tabindex="-1" id="consent-modal" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container text-secondary mt-3 mb-3">
+	<div class="row">
+	
+		<div class="col-md-12">
+		
+			<h4 class="text-center mb-1"> Privacy settings</h4>
+			<p class="text-left">
+				We respect your privacy! 
+				</p>
+				<p class="text-left">
+				
+				We use cookies and other technologies on our website. Some of them are essential, 
+				while others help us improve this website and your experience. 
+				Personal data may be processed (e.g. IP addresses), e.g. for personalized ads and content or ad and content measurement.
+				For more information about how we use your information, please see our <a href="#" class="text-decoration-none"> Privacy Policy</a>. 
+				You can revoke or adjust your selection at any time under <a href="#" class="text-decoration-none"> preferences</a>. <br />
+				</p>
+					<p class="text-left">
+				Some services process personal data in the USA. With your consent to use these services, 
+				you also consent to the processing of your data in the USA in accordance with Art. 49 (1) lit. 
+				a DSGVO. The ECJ classifies the USA as a country with insufficient data protection according to EU standards. 
+				For example, there is a risk that U.S. authorities will process personal data in surveillance programs without any 
+				existing possibility of legal action for Europeans.
+			 
+			</p>
+			<p class="text-left">
+				Translated with www.DeepL.com/Translator (free version) 
+		 
+			</p> 
+			
+			<div class="form-check form-check-inline">
+				  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" checked value="option1" disabled>
+				  <label class="form-check-label" for="inlineCheckbox1">Essential</label>
+				</div>
+				<div class="form-check form-check-inline">
+				  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+				  <label class="form-check-label" for="inlineCheckbox2">Spam protection</label>
+				</div>
+				<div class="form-check form-check-inline">
+				  <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3">
+				  <label class="form-check-label" for="inlineCheckbox3">Statistics</label>
+				</div>
+				<div class="form-check form-check-inline">
+				  <input class="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4">
+				  <label class="form-check-label" for="inlineCheckbox4">External media</label>
+				</div>
+		</div>
+	
+	</div>
+	
+	<div class="row mt-3">
+	
+		<div class="col-md-12">
+		 <button class="btn btn-primary btn-large w-100">Accept all</button> 
+		</div>
+	
+	</div>
+	<div class="row  mt-2">
+	
+		<div class="col-md-12"> 
+		 <button class="btn btn-primary btn-large w-100">Save</button> 
+		</div>
+	
+	</div>
+	<div class="row  mt-2">
+	
+		<div class="col-md-12"> 
+		 <button class="btn btn-primary btn-large w-100">Accept only essential cookies</button>
+		</div>
+	
+	</div>
+	<div class="row mt-2">
+	
+		<div class="col-md-12 text-center">
+		 <p><a href="#" class="text-decoration-none">Individual privacy settings</a>  <br />
+			 Cookie details | Privacy policy | Imprint</p>
+		 
+		</div>
+	
+	</div>
+	 
+   </div>
+        </div>
+      </div>
+    </div>
+    <header>
+        <partial name="_MainMenu" />
+    </header>
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <partial name="_Footer" />
+   
+   
+</body>
+</html>
+<script>
+	$(document).ready(function() {
+		$(".modal-dialog").css('max-width','560px')
+    $('#consent-modal').modal('show');
+});
+	
+	</script>

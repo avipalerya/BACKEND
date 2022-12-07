@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ShoppingCart.modal.Cart>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    @foreach (var cart in Model) {
+    
+        <h3> Name: @cart.CartName</h3>
+        <h3>Shopping Type: @cart.ShoppingType</h3>
+        <h3> Cart Type: @cart.CartType</h3>
+        <h3> No oF Items: @cart.NoOfItems</h3>
+   
+    }
+
+</body>
+</html>

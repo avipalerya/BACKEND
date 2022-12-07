@@ -1,0 +1,26 @@
+﻿types of classes:
+	Instance class
+	static class
+	partial class
+	nested class
+	singleton class
+	abstract class
+	sealed class
+
+
+	instance class: 
+		normal classes where we need object creation in order to execute the class
+
+	Static class:
+		->aclass where we dont need any object creation to execute that class.(->cant use new keyword)
+		->it can access only static items.
+		->we have to use static keyWord.
+		->cant inherit static class from another class.
+		->static class can have only static members.
+		->we can access data members and member functions through the class name.
+
+
+partial class: 
+	->partial keyword is used in order to craetwe a partial class
+	->all the methods and data members can be accessd by creating single instance.
+		

@@ -1,0 +1,39 @@
+2. what happens while converting string to int when we have String data with Number?
+==>
+String could be converted to integers too but only when there are numbers in the strings. When it is not convertible, there be an error raised.
+It is a ValueError because all these int, str, floats are values and when it is not compatible, there is an error.
+
+3. Is there any ways to convert the alfa numerical value into int? 
+==>
+In C#, you can convert a string representation of a number to an integer using the following ways:
+
+Parse() method
+Convert class
+TryParse() method 
+
+4. What is the diff b/w parse() and TryParse()?
+==>
+Parse throws an exception if it cannot parse the value, whereas TryParse returns a bool indicating whether it succeeded.
+
+TryParse does not just try/catch internally - the whole point of it is that it is implemented without exceptions so that it is fast.
+In fact the way it is most likely implemented is that internally the Parse method will call TryParse and then throw an exception if it returns false.
+
+5. Why cant we implicitly convert char to string? 
+
+public void question2()
+        {
+            int i = 15;
+            for(; ; )
+            {
+                Console.WriteLine("{0}",i);
+
+                if(i>= -5)
+                {
+                    i -= -5;
+                }
+                else
+                {
+                    break ;
+                }
+            }
+        }

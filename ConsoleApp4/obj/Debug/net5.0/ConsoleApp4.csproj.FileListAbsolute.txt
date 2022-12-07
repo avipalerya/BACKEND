@@ -1,0 +1,16 @@
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+D:\BACKEND\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+D:\BACKEND\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache

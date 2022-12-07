@@ -1,0 +1,303 @@
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.AssemblyReference.cache
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfoInputs.cache
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfo.cs
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CoreCompileInputs.cache
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.exe
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.deps.json
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.json
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.dev.json
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.pdb
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.Manifest.cache
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.xml
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\employeewebapi.styles.css
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.RazorTargetAssemblyInfo.cache
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CopyComplete
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.dll
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.pdb
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.genruntimeconfig.cache
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BACKEND\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BACKEND\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.exe
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.deps.json
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.json
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.dev.json
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.AssemblyReference.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfoInputs.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfo.cs
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CoreCompileInputs.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.Manifest.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.xml
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\employeewebapi.styles.css
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.RazorTargetAssemblyInfo.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CopyComplete
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.pdb
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.genruntimeconfig.cache
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\107013\OneDrive - ThoughtFocus\Desktop\.Net\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.exe
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.deps.json
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.json
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.dev.json
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.AssemblyReference.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfoInputs.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfo.cs
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CoreCompileInputs.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.Manifest.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.xml
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\employeewebapi.styles.css
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.RazorTargetAssemblyInfo.cache
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CopyComplete
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.dll
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.pdb
+C:\Users\107020\Downloads\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.genruntimeconfig.cache
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.exe
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.deps.json
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.json
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.runtimeconfig.dev.json
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\employeewebapi.pdb
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BACKEND\employeewebapi\employeewebapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.AssemblyReference.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfoInputs.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.AssemblyInfo.cs
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CoreCompileInputs.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cs
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.Manifest.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\staticwebassets\employeewebapi.StaticWebAssets.xml
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\scopedcss\bundle\employeewebapi.styles.css
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.RazorTargetAssemblyInfo.cache
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.csproj.CopyComplete
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.dll
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.pdb
+D:\BACKEND\employeewebapi\employeewebapi\obj\Debug\netcoreapp3.1\employeewebapi.genruntimeconfig.cache

@@ -1,0 +1,173 @@
+1.what is c sharp?
+
+C# is a modern, object-oriented, and type-safe programming language. 
+C# enables developers to build many types of secure and robust applications that run in .NET.
+
+-----------
+
+2.Diff b/w class and struct?
+
+a)Classes are of reference types.Structs are of value types.
+
+b)All the reference types are allocated on heap memory. 
+All the value types are allocated on stack memory.
+
+c)Class has limitless features.	Struct has limited features.
+
+d)Class is generally used in large programs.	Struct are used in small programs.
+
+e)Classes can contain constructor or destructor.	
+Structure does not contain parameter less constructor or destructor,
+ but can contain Parameterized constructor or static constructor.
+
+f)Classes used new keyword for creating instances.
+Struct can create an instance, with or without new keyword.
+
+g)A Class can inherit from another class.	
+A Struct is not allowed to inherit from another struct or class.
+
+h)The data member of a class can be protected.	The data member of struct can’t be protected.
+
+i)Function member of the class can be virtual or abstract.	
+Function member of the struct cannot be virtual or abstract.
+
+-----------
+
+3.What are classes and objects in c#?
+
+1.class:Blueprint of variables and methods. Group of classes are namespace. Group of objects.
+2.object:Instance of a class. Memory representation of blueprint.
+
+----------
+
+4. Explain different  access modifiers in c#?
+
+Access modifiers are keywords used to specify the declared accessibility of a member or a type.
+1. public: Access isn't restricted.
+
+2. protected: Access is limited to the containing class or types derived from 
+   the containing class.
+
+3. internal: Access is limited to the current assembly.
+
+4. protected internal: Access is limited to the current assembly or types derived 
+   from the containing class.
+
+5. private: Access is limited to the containing type.
+
+6. private protected: Access is limited to the containing class or types derived 
+from the containing class within the current assembly.
+
+7. file: The declared type is only visible in the current source file. 
+File scoped types are generally used for source generators.
+
+----------
+5. Explain different access specifiers in c#
+
+To define the scope and visibility of a class member, use an access specifier.
+
+C# supports the following access specifiers −
+
+Public
+Private
+Protected
+Internal
+Protected internal
+
+
+Public Access Specifier:
+It allows a class to expose its member variables and member functions to other functions 
+and objects.
+
+Private Access Specifier:
+Private access specifier allows a class to hide its member variables and 
+member functions from other functions and objects. Only functions of the 
+same class can access its private members.
+
+Protected Access Specifier:
+Protected access specifier allows a child class to access the member variables 
+and member functions of its base class.
+
+Internal Access Specifier:
+Internal access specifier allows a class to expose its member variables and 
+member functions to other functions and objects in the current assembly.
+
+Protected Internal Access Specifier:
+The protected internal access specifier allows a class to hide its member variables 
+and member functions from other class objects and functions, except a child class 
+within the same application.
+
+-----------
+6. Explain different data types in c#?
+
+Value Types: int, float, char, bool,enum,struct.
+Reference Types:class type, interface type, array type, delegate type.
+
+----------
+7. What is debugging?
+the process of identifying and removing errors from computer hardware or software.
+Debugging involves locating and correcting code errors in a computer program.
+
+----------
+8.expalin use of using statement in c#
+======================================
+The using statement causes the object itself to go out of scope as soon as Dispose is called.
+Within the using block, the object is read-only and can't be modified or reassigned. 
+A variable declared with a using declaration is read-only.
+
+----------
+9. Explain all the looping  statments in c#?
+
+a)For Loop:
+When you know exactly how many times you want to loop through a block of code, use the for loop
+Syntax
+
+for( initialization; condition; increment or decrement)
+{
+//Statements
+}
+
+b)While Loop:
+The while loop loops through a block of code as long as a specified condition is True:
+ 
+
+Syntax:
+
+//Initialization;
+while(condition)
+{
+//Statements;
+//Increment or decrement;
+}
+
+c)Do While:
+The do/while loop is a variant of the while loop. This loop will execute the code block once, 
+before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+
+Syntax
+
+//Initialization;
+do
+{
+//Statements;
+//Increment or decrement;
+}while(condition);
+
+-----------
+10. Diff b/w ternary operator and null coalescing operator with examples?
+
+Ternary operator:
+C# includes a decision-making operator ?: which is called the conditional operator or 
+ternary operator. It is the short form of the if else conditions.
+The ternary operator starts with a boolean condition. If this condition evaluates to true 
+then it will execute the first statement after ?, 
+otherwise the second statement after : will be executed.
+
+
+Null-coalescing operator:
+It will return the value of its left-hand operand if it is not null. If it is null, then 
+it will evaluate the right-hand operand and returns its result. Or 
+if the left-hand operand evaluates to non-null,then it does not evaluate its right-hand operand.
+The ?? operator is used to check null values and you can also assign a 
+default value to a variable whose value is null(or nullable type).
+-----

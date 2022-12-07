@@ -1,0 +1,54 @@
+﻿@model ShoppingCart.ViewModels.HomeDetailsViewModel
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    @*<h1> @ViewBag.Title</h1>
+        <h3>ID : @ViewBag.cart.id</h3>
+        <h3>Cart Name : @ViewBag.cart.CartName</h3>
+        <h3>Shopping Type: @ViewBag.cart.ShoppingType</h3>
+        <h3>Cart Type: @ViewBag.cart.CartType</h3>
+        <h3>Number of items: @ViewBag.cart.NoOfItems</h3>
+        <h3>Type Of Items:</h3>
+        <ul>
+            @{ if (ViewBag.cart.TypeOfItems != null) {
+                    foreach (var Products in ViewBag.cart.TypeOfItems) {
+                        <li><h4> @Products</h4></li>
+                    }
+                } }
+        </ul>*@
+
+    <h1> @Model.Title</h1>
+
+
+    <h3>ID : @Model.cart.id</h3>
+    <h3>Cart Name : @Model.cart.CartName</h3>
+    <h3>Shopping Type: @Model.cart.ShoppingType</h3>
+    <h3>Cart Type: @Model.cart.CartType</h3>
+    <h3>Number of items: @Model.cart.NoOfItems</h3>
+    <h3>Type Of Items:</h3>
+    <ul>
+        @{ if (Model.cart.TypeOfItems != null) {
+                foreach (var Products in Model.cart.TypeOfItems) {
+                    <li><h4> @Products</h4></li>
+                }
+            } }
+    </ul>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+

@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.form-check-input {
+    border-color: #6f97d3;
+    border: 2px solid #6f97d3;
+}
+
+    .form-check-input:checked {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e") !important;
+        background-color: #cbcbcb;
+        border: 0px solid #cbcbcb;
+    }
+.btn-primary[b-bv1m2l6qkp] {
+    background-color: #264c72 !important;
+    border-color: #264c72 !important;
+}

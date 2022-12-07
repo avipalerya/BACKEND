@@ -1,0 +1,88 @@
+=======================================================================================
+.net Day-1 Assignment
+========================================================================================
+1. Explain the Execution Flow of a .net application?
+==>             NON.NET
+                 ----
+
+The NON .NET applications can run directly on top of the operating system as the NON-DOTNET assembly contains the native code whereas 
+
+. Both .NET and Non-DOTNET applications generate an assembly when we compile the application. 
+
+Generally, the assemblies have an extension of. DLL or .EXE based on the type of application we compiled.
+
+For example, if we compile a Window or Console application in .NET, we get an assembly of type .
+
+EXE, whereas when we compile a Web or Class Library Project in .NET, we get an assembly of type .DLL.
+
+			.NET
+			-------
+ The .NET application Source Code gets compiled into Microsoft Intermediate language (MSIL) which is also called Intermediate language (IL) 
+
+or Common Intermediate language (CIL) code
+
+.NET applications run on top of a virtual environment called Common Language Runtime (CLR). 
+
+CLR contains a component called Just-In-Time Compiler (JIT) which will convert the Intermediate 
+
+language into native code which can be understood by the underlying operating system.
+
+2. Difference between MySQL and SQL server?
+==>          MS SQLServer																	MySQL
+		---------------																	-------
+
+Developed by Microsoft.															Developed by Oracle.
+
+It supports programming languages like C++, JAVA, Ruby, Visual Basic, Delphi, R etc.				MySQL offers extended running support for languages like Perl, Tcl, Haskey etc.
+
+Expects a large amount of operational storage space.										Expects less amount of operational storage space.
+
+It enables for stopping query execution.												It doesn’t allow query cancellation mid-way in the process.
+
+Doesn’t block the database while backing up the data.										Blocks the database while backing up the data.
+
+It is not free.	It is open source. 													It is freely available.
+
+It is a highly secured and doesn’t allow any kind of database file manipulation while running.		It allows database file manipulation while running.
+
+It is available in multiple editions, such as Enterprise, Standard, Web, Workgroup, or Express.		It is available in MySQL Standard Edition, MySQL Enterprise Edition, and MySQL Cluster Grade Edition.
+
+3. Difference between ASP .net and ASP .net core?	
+==>          ASP.Net																	     ASP.NET CORE
+
+Asp.Net Build for Windows															Asp.Net Core Build for Windows, Mac and Linux
+Asp.Net has a Good Performance														ASP.Net core has higher performances than ASP.Net 4x.
+It runs on .Net Framework or commonly called as full .Net Framework							It runs on .Net Core and Full .Net Framework.
+Asp.Net Supports WebForm, Asp.Net MVC and Asp.Net WebAPI.									Asp.Net Core does not support WebForm. It supports MVC, Web API and Asp.Net Web pages originally added in .Net Core 2.0.
+Asp.Net used the only IIS with dependant on System.web.dll.									Asp.Net Core has not dependant System.web.dll and so the IIS.
+Support C#, VB and many other languages and also support WCF, WPF and WF						Support only C#, F# language. VB support to added a short time and no support WCF, WPF and WF but support for WCF client libraries are available.
+Asp.Net MVC application added Web.config, Global.asax, Application Start.						Core did not support Web.config and Global.asax files. It is supporting appsettings.json.
+Container support not more than better as the ASP.Net Core application.						Container support best suited for deployments like Docker.
+All major versions supported														Support Core from Visual Studio 2015 update 3 and current version VS 2017.
+We Need to re-compile after the code change.											Core Browser refresh will compile and executed the code no need for re-compile.
+
+4. What is Meta Package?
+==> A 'meta-package' is a convenient way to bulk-install groups of applications, their libraries and documentation. 
+Many Linux distributions use them for a variety of purposes, from seeding disk images that will go on to become new releases, 
+to creating software “bundles” that are easy for a user to install.
+
+5. Can a ASP .net appln works with lower version of .net framework?
+==> The . NET Framework 4.5 and later versions are backward-compatible with apps that were built with earlier versions of the . NET Framework. 
+In other words, apps and components built with previous versions will work without modification on the .
+
+6. What does .li file means?
+==>The LI$ file type is primarily associated with MS Compressed Library. LI$ File extension: LI$ File type: MS Compressed Library files.
+
+7. What is ILAssembler and ILDAssembler?
+===> ILAssembler-
+The ILAssembler generates a portable executable (PE) file from intermediate language (IL) assembly. (For more information on IL, see Managed Execution Process.) You can run the resulting executable, which contains IL and the required metadata, to determine whether the IL performs as expected.
+Syntax-ilasm [options] filename [[options]filename...]
+      ILDAssembler-
+The ILDAssembler is a companion tool to the IL Assembler (Ilasm.exe). Ildasm.exe takes a portable executable (PE) file that contains intermediate language (IL) code and creates a text file suitable as input to Ilasm.exe.
+
+
+The Portable Executable (PE) format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems. The PE format is a data structure that encapsulates the information necessary for the Windows OS loader to manage the wrapped executable code.
+
+8. What is Monolithic Application?
+==> Monolithic applications are designed to handle multiple related tasks. They’re typically complex applications that encompass several tightly coupled functions.
+===> a monolithic application describes a single-tiered software application in which the user interface and data access code are combined into a single program from a single platform.
